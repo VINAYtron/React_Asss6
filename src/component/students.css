@@ -1,0 +1,11 @@
+.addbtn {
+  text-align: right;
+  margin: 3rem;
+}
+
+.addnew {
+  text-decoration: none;
+  padding: 1rem;
+  color: #fff;
+  background-color: rgb(31, 102, 78);
+}
